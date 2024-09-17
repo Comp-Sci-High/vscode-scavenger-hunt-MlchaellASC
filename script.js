@@ -26,3 +26,4 @@ console.log(teamwork);
 
 // Now, let's create a ReferenceError intentionally
 console.log(nonExistentVariable); // This will throw a ReferenceError since nonExistentVariable is not defined
+superrrr
